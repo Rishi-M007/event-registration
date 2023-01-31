@@ -75,6 +75,9 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 ```
 
 ## OUTPUT:
+![output](./event1.png)
+![output](./event2.png)
+![output](./event3.png)
 
 
 ## Result:
